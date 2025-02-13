@@ -12,6 +12,6 @@ This is a raycasting engine built in SDL, inspired by classic games like Wolfens
 3. Run the Program
 
 ##Images
-![RAYCASTER]()
+![RAYCASTER](https://github.com/Divakar-26/rayCasterSDL/blob/main/raycaster.png)
 
-![INTERACTIVE MAP]()
+![INTERACTIVE MAP](https://github.com/Divakar-26/rayCasterSDL/blob/main/rayCaster.gif)
