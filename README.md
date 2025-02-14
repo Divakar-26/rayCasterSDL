@@ -20,7 +20,7 @@ This is a raycasting engine built in SDL, inspired by classic games like Wolfens
 🔹 Performance optimizations
 
 
-##Installation
+## Installation
 1. Clone This Repo
    ```bash
      git clone https://github.com/Divakar-26/rayCasterSDL
@@ -30,7 +30,7 @@ This is a raycasting engine built in SDL, inspired by classic games like Wolfens
      g++ -o YourName.exe main.cpp -Iinclude -Llib -lSDL3
 3. Run the Program
 
-##Images
+## Images
 ![RAYCASTER](https://github.com/Divakar-26/rayCasterSDL/blob/main/raycaster.png)
 
 ![INTERACTIVE MAP](https://github.com/Divakar-26/rayCasterSDL/blob/main/rayCaster.gif)
